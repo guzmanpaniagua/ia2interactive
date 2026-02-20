@@ -1,0 +1,12 @@
+title: Introducción a AWS IAM
+description: Aprende los conceptos fundamentales de AWS Identity and Access Management.
+author: IA2Interactive
+language: es
+
+chapters:
+  - dir: 01-intro
+    title: ¿Qué es IAM?
+  - dir: 02-policies
+    title: Políticas y permisos
+  - dir: 03-best-practices
+    title: Buenas prácticas

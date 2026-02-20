@@ -1,0 +1,25 @@
+# Source & dev
+src/
+tests/
+examples/
+docs/
+.github/
+
+# Build artifacts
+dist/
+
+# Config
+tsconfig.json
+vitest.config.ts
+.gitignore
+todo.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
